@@ -78,12 +78,7 @@ from popvsvac
 
 
 
-
-
-
 --TEMP TABLE
-
-
 
 
 
